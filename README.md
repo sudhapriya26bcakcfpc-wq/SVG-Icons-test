@@ -53,6 +53,15 @@ https://www.figma.com/proto/cb2IfcVMFsXjUVQ9DZfhYt/SVG-Icons-test?t=zrpEul6JUyvt
 
 **The project features a royal blue and soft cream colour palette that creates an elegant, warm, and visually appealing experience. The rounded-square blue backgrounds, white symbols, and decorative blue typography maintain a consistent visual style. The icons are arranged in five columns and four rows, making the collection organized, balanced, and easy to understand.**
 
+
+
+
+<img width="1440" height="1024" alt="SVG Icons" src="https://github.com/user-attachments/assets/7e0876c3-7879-4999-8cdf-0be14265a9e3" />
+
+
+
+
+
 ### **Project Vision 🎯**
 
 **To create a collection of simple, attractive, and scalable SVG icons that improve the visual appearance and usability of modern digital interfaces.**
