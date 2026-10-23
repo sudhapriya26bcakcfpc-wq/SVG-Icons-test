@@ -71,6 +71,14 @@ https://www.figma.com/proto/cb2IfcVMFsXjUVQ9DZfhYt/SVG-Icons-test?t=zrpEul6JUyvt
 ### **Developed By 👩‍💻**
 
 **Name: M. Sudhapriya**
+
+
 **Course: I BCA** 
+
+
 **College: Kamaraj College**
+
+
 **Project: SVG ICONS**
+
+
