@@ -17,37 +17,37 @@ https://www.figma.com/proto/cb2IfcVMFsXjUVQ9DZfhYt/SVG-Icons-test?t=zrpEul6JUyvt
 
 🎨 **SVG Icons – Project Description**
 
-💙 **Elegant Colour Theme** – A beautiful royal blue and cream colour combination for a clean and attractive look.
+💙 **Elegant Colour Theme – A beautiful royal blue and cream colour combination for a clean and attractive look.**
 
-🖼️ **20 Useful Icons** – Includes Home, Search, Clock, Location, Settings, Calendar, Profile, Delete, Phone, Lock, Mic, Mail, Computer, Cut, Copy, Music, Share, Weather, Wi-Fi, and Browser.
+🖼️ **20 Useful Icons – Includes Home, Search, Clock, Location, Settings, Calendar, Profile, Delete, Phone, Lock, Mic, Mail, Computer, Cut, Copy, Music, Share, Weather, Wi-Fi, and Browser.**
 
-✨ **Scalable Graphics** – SVG icons can be resized without losing image quality.
+✨ **Scalable Graphics – SVG icons can be resized without losing image quality.**
 
-📱 **User-Friendly Design** – Suitable for websites, mobile applications, and UI/UX projects.
+📱 **User-Friendly Design – Suitable for websites, mobile applications, and UI/UX projects.**
 
-🎯 **Simple & Consistent Layout** – A well-organized grid with rounded-square icon backgrounds and clear white symbols.
+🎯 **Simple & Consistent Layout – A well-organized grid with rounded-square icon backgrounds and clear white symbols.**
 
-🖌️ **Easy to Customize** – Icon colours, sizes, and styles can be modified to suit different design requirements.
+🖌️ **Easy to Customize – Icon colours, sizes, and styles can be modified to suit different design requirements.**
 
 ### **Key Features ✨**
 
-🎨 Attractive royal blue and cream colour combination
+🎨 **Attractive royal blue and cream colour combination**
 
-🔍 20 commonly used icons for everyday digital functions
+🔍 **20 commonly used icons for everyday digital functions**
 
-📱 Suitable for websites and mobile applications
+📱 **Suitable for websites and mobile applications**
 
-⚡ Lightweight and scalable SVG format
+⚡ **Lightweight and scalable SVG format**
 
-🔄 Resize icons without losing quality
+🔄 **Resize icons without losing quality**
 
-🖌️ Customizable colours, sizes, and styles
+🖌️ **Customizable colours, sizes, and styles**
 
-💻 Useful for UI/UX design and Figma projects
+💻 **Useful for UI/UX design and Figma projects**
 
-📐 Neat grid layout with consistent spacing and alignment
+📐 **Neat grid layout with consistent spacing and alignment**
 
-✨ Decorative typography with a playful visual style
+✨ **Decorative typography with a playful visual style**
 
 ### **Project Theme 🌈**
 
@@ -55,13 +55,13 @@ https://www.figma.com/proto/cb2IfcVMFsXjUVQ9DZfhYt/SVG-Icons-test?t=zrpEul6JUyvt
 
 ### **Project Vision 🎯**
 
-To create a collection of simple, attractive, and scalable SVG icons that improve the visual appearance and usability of modern digital interfaces.
+**To create a collection of simple, attractive, and scalable SVG icons that improve the visual appearance and usability of modern digital interfaces.**
 
 **“A stylish and versatile collection of SVG icons designed with royal blue and cream colours to make digital interfaces elegant, organized, and user-friendly.”**
 
 ### **Developed By 👩‍💻**
 
-**Name:** M. Sudhapriya  
-**Course:** I BCA  
-**College:** Kamaraj College  
-**Project:** SVG ICONS
+**Name: M. Sudhapriya**
+**Course: I BCA** 
+**College: Kamaraj College**
+**Project: SVG ICONS**
